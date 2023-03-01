@@ -4,7 +4,7 @@ class Employee{
 
      function greet(){
 
-        return 'Ayubovan';
+        return 'Ayubovan ';
      }
 
 }
